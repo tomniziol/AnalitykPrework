@@ -1,0 +1,2 @@
+To jest plik testowy do pracy z gitem.
+Prework.
